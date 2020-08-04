@@ -1,0 +1,43 @@
+.carousel-inner{
+	margin-top: 100px;
+	width: 500px;
+	height: 350px;
+}
+.jugar {
+	margin-top: 100px;
+	font-family: 'Special Elite', cursive;
+	padding: 20px 20px 0px 20px;
+    box-shadow: 2px 2px 3px #c3c3c3;
+    margin-bottom: 0px;
+}
+.jugar h1{
+	padding-top: 10px;
+}
+
+.jugar p{
+	padding-top: 15px;
+}
+
+.card.j{
+margin: 20px;
+font-family: 'Amatic SC', cursive;
+}
+
+.card-body.text-center{
+	font-family: 'Amatic SC', cursive;
+}
+
+.ir{
+	width: 150px;
+	margin-top: 15px;
+}
+
+.btn-primary.ir:not(:disabled):not(:disabled):active {
+   background-color: #bd687c;
+    border: 2px solid #a75a6c;
+    box-shadow: 2px 2px 3px #828080;
+} 
+
+.cita{
+	text-shadow: 2px 2px 3px #754752;
+}

@@ -1,0 +1,33 @@
+#footer{
+	height: 0px;
+}
+.titulo-footer{
+	font-size: 35px;
+	font-family: 'Amatic SC', cursive;
+}
+
+.img1-footer{
+	width: 55px;
+	height: 65px;
+	margin-top: -35px;
+	}
+
+.list-inline.d-flex{
+	display: flex;
+	font-size: 25px;
+	letter-spacing: 5px;
+}
+
+.img2-footer{
+	display: flex;
+	width: 55px;
+	height: 75px;
+	margin-top: -40px;
+	margin-right: 40px;
+	}
+
+.row.footer{
+	margin-left: 40px;
+	justify-content: space-between;
+}
+

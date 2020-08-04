@@ -1,0 +1,65 @@
+@import	url("componentes/banner.css");
+@import url("componentes/formulario.css");
+@import url("componentes/footer.css");
+@import url("componentes/cards.css");
+@import url("componentes/scaperoom.css");
+@import url("componentes/fechas.css");
+@import url("componentes/juegos.css");
+
+font-family: 'Indie Flower', cursive;
+font-family: 'Amatic SC', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Patrick Hand', cursive;
+font-family: 'Special Elite', cursive;
+
+
+.search-form-control.form-group {
+  position: relative;
+  width: 300px;
+  margin: 5px;
+}
+
+#search_query{
+  width: 400px;
+}
+
+.nav-item:hover{
+  text-shadow: 2px 2px 3px #9aa5b1;
+
+}
+
+.search-form-control .btn {
+  position: absolute;
+  top: 15px;
+  bottom: 8px;
+  right: 25px;
+  height: 25px;
+  width: 120px;
+ }
+
+.search-form-control .form-control {
+  height: 3.5rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  border: 1px solid #E7E7E7;
+  height: 40px;
+}
+
+.search-form-control .form-control:focus {
+  border: 1px solid #bdbebf;
+  outline: none !important;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+.btn-flat {
+  color: black;
+  font-weight: bold;
+  padding: 0;
+  border-radius: 4px;
+  background: #E7E7E7;
+  opacity: 0.5;
+  transition: background 0.3s ease;
+}
+
+.btn-flat:hover {
+  opacity: 0.8;
+ }

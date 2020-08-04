@@ -1,0 +1,40 @@
+.banner2 {
+  margin-top: 100px;
+	line-height: 75px;
+	text-align: center;
+  background-size: cover;
+  background-position: center;
+   padding: 70px 0;
+   height: 400px;
+}
+
+.banner2 h1{
+    color: white;
+    border: 2px solid;
+    background-color: #80808091;
+    text-shadow: 2px 2px 3px #0e0c0c;
+    font-family: 'Caveat', cursive;
+    margin: 230px 0 0 0;
+}
+
+
+#video{
+	text-align: center;
+	margin: 50px;
+}
+
+.row.text-center h1{
+font-family: 'Patrick Hand', cursive;
+color: #1b1b52;
+text-shadow: 2px 2px 3px #ccb7b7;
+}
+
+.btn-secondary{
+  background-color: #1d1d2d;
+  font-family: 'Patrick Hand', cursive;
+  font-size: 30px;
+}
+
+a:hover{
+  text-decoration: none;
+}
